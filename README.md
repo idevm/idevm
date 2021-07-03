@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idevm
 - 👀 I’m interested in developing 
-- 🌱 I’m currently learning python, js, html, css, coding
+- 🌱 I’m currently learning c#, python, js, html, css, coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
