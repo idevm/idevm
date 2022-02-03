@@ -1,5 +1,4 @@
 <h1 align='center'>Welcome!</h1>
-
 <table align='center'>
   <tr>
     <td width='500'><div align='center'>Here are some personal projects</div></td>
